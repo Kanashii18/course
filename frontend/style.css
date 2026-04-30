@@ -1,0 +1,22 @@
+body{
+     background-color: rgb(140, 255, 249);
+}
+
+
+main{
+     width: 100%;
+     height: 100%;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+}
+
+.title{
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#clicks{
+     font-family: monospace;
+     font-size: 2.5rem;
+}
